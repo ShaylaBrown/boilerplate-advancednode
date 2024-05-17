@@ -1,3 +1,5 @@
+app.set('view engine', 'pug');
+
 'use strict';
 require('dotenv').config();
 const express = require('express');
